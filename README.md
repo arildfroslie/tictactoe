@@ -1,3 +1,3 @@
 # tictactoe
 
-An implementation of tic tac toe in React
+An implementation of tic tac toe in React by Arild
